@@ -3,7 +3,7 @@ import time
 import requests
 
 # daftar link tujuan yang akan dijadwalkan
-links = ["https://lofiamity-traf2-main-gxl8xq.streamlit.app/"]
+links = ["https://lofiamity-traf2-main-gxl8xq.streamlit.app/", "https://lofiamity-rembg-main-0h4y2j.streamlit.app/"]
 
 # fungsi untuk mengakses link secara acak
 def access_random_link():
